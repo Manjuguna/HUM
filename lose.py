@@ -7,5 +7,5 @@ for i in lit:
         break
     qr=mt // i
     cat+=qr
-    mmmt=mt-i*qr
+    mt=mt-i*qr
 print(cat)
